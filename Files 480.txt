@@ -1,0 +1,5 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/082/U3_ADJ_01_cuestionario%20cliente.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/005/712/U6_ADJ_01_manual%20adobe.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/005/713/U6_ADJ_04_manual%20jaime%20oliver.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/005/714/U6_ADJ_03_manual%20cocacola%20125%20aniversario.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/005/715/U6_ADJ_05_manual%20iny.pdf

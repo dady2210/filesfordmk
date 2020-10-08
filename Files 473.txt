@@ -1,0 +1,12 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/107/U1_ADJ_01%20%28next%29%20Documento%20primero%20adjunto%20unidad%201.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/108/U1_ADJ_02%20%28influencias%29%20Documento%20segundo%20adjunto%20unidad%201.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/109/U2_ADJ_01%20%28recursos%29%20Documento%20primero%20adjunto%20unidad%202.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/110/U2_ADJ_02%20%28tipos%20presentacion%29%20Documento%20segundo%20adjunto%20unidad%202.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/111/U3_ADJ_01%20%28guion%29%20Documento%20primero%20adjunto%20unidad%203.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/112/U4_ADJ_01%20hablar%29%20Documento%20primero%20adjunto%20unidad%204.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/113/U5_ADJ_01%20%28frente%20al%20cliente%29%20Documento%20primero%20adjunto%20unidad%205.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/114/U5_ADJ_02%20%28edoble%29%20Archivo%20segundo%20adjunto%20unidad%205.m4v
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/115/U5_ADJ_03%20%28ilustracion%20retrato%29%20Archivo%20tercero%20adjunto%20unidad%205.m4v
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/116/U5_ADJ_04%20%28ocre%29%20Archivo%20cuarto%20adjunto%20unidad%205.m4v
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/117/U5_ADJ_05%20%28ilustracion%20barranquero%29%20Archivo%20quinto%20adjunto%20unidad%205.m4v
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/118/U5_ADJ_06%20%28logo%20camelie%29%20Archivo%20sexto%20adjunto%20unidad%205.m4v

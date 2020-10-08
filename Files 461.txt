@@ -1,0 +1,9 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/002/Presentaciones%20PDF.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/003/Presentaciones%20PDF.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/002/978/U3_ADJ_04_EjemploPlayfulDesign.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/002/979/U3_ADJ_05_EjemploGameDesign.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/004/Presentaciones%20PDF.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/002/980/U4_ADJ_05_EjemploGamification.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/005/Presentaciones%20PDF.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/002/981/U5_ADJ_05_EjemploNarrativa.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/002/982/U5_ADJ_06_Gui%CC%81aCampan%CC%83aGamification.pdf
