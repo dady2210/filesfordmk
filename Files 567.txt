@@ -1,0 +1,4 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/155/Plantillas.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/277/Modelo%20Terminado.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/156/Archivos%20finales.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/278/Editables.zip

@@ -1,0 +1,4 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/836/PatronesAbiertos.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/837/PatronesMedios.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/795/PatronesCerrados.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/583/Patr%C3%B3n%20para%20pieza%20final%20BLACKWORK.pdf

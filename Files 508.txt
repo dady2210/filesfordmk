@@ -1,0 +1,5 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/561/mapa-empatia.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/562/propuesta-de-valor.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/563/content-map.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/564/plan-de-inbound.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/565/customer-journey.pdf

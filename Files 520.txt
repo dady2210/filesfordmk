@@ -1,0 +1,7 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/593/REFS_SCRIPTLETTERING.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/785/GRIDS_LETTERING.ai
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/590/BANG_INKING.ai
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/591/REFS_OPART.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/592/BANG_OPART.ai
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/594/BANG_RIBBON2.ai
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/595/bang-C4D.c4d

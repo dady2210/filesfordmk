@@ -1,0 +1,12 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/614/PureRef-1.9.2_x64.dmg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/613/PureRef-1.9.2_x64.exe
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/612/PureRef-1.9.2_x86.exe
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/615/Escaneos%203D.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/616/MultiDirectionalWarpGrayscale.sbs
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/617/Get_Slope.sbs
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/618/Filter_DilationOrErosion.sbsar
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/623/Substance_Player-2018.3.2-1936-msvc14-x64-standard-full.exe
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/629/Substance_Player-2018.3.2-1936-mac-x64-standard-full.pkg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/638/HDRI_Maps.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/639/PreviewMesh.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/661/PostRender_Template.zip

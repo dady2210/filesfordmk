@@ -1,0 +1,17 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/060/LIBRERIA_BASE.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/061/BRUTOS_WOODY_FILM.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/062/WOODY%20FILM.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/232/BRUTOS%20MULTICAMARA%20BAILE.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/231/MUSICAS.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/087/BAILE_TITULO.psd
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/088/MULTICAMARA_BAILE.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/090/BAILE_INTERIOR_LOW.mp4
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/091/BRUTOS_POKER.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/092/Poker%20D_assi%20by%20Ennio%20Morricone.mp3
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/093/VO_POKER.wav
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/094/POKER_FILM.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/095/35%20Free%20LUTs.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/096/ANIMACION%20RELOJ.mp4
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/097/BRUTOS_GREEN_BACK.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/098/KEYER_SHOTS.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/099/POKER_XML.zip

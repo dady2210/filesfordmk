@@ -1,0 +1,13 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/003/999/U2_ConceptosBasicos.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/000/U2_EjerciciosDePreparacion.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/001/U2_ReticulaItalicaCancilleresca.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/089/U3_BrushPenComparacion.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/002/U3_EjerciciosIniciacion.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/003/U3_Reti%CC%81culaBrushPen.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/004/U3_Ductus.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/005/U3_PracticaMinusculas.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/006/U3_PracticaMayusculas.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/007/U4_Palabras.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/008/U4_Ornamentos.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/009/U4_FusionTintas.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/010/U4_ProyectoFinal.jpg

@@ -1,0 +1,12 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/014/U2_ADJ_01%20%28PROGRAMAS%20PARA%20ANIMAR%20PIXEL%20ART%29%20Slide%20adjunto%20en%20la%20Unidad%202%20Lecci%C3%B3n%201.pptx
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/015/U2_ADJ_02%20%28ANIMACI%C3%93N%20REFRESCO%29%20Documento%20adjunto%20en%20la%20Unidad%202%20Lecci%C3%B3n%201.pyxel
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/016/U2_ADJ_03%20%28MONEDA%29%20Documento%20adjunto%20en%20la%20Unidad%202%20Lecci%C3%B3n%202.pyxel
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/017/U2_ADJ_04%20%28ANIMACI%C3%93N%20MONEDA%29%20Documento%20adjunto%20en%20la%20Unidad%202%20Lecci%C3%B3n%202.pyxel
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/024/U2_ADJ_05%20%28PERSONAJE%20ORIGINAL%29.pyxel
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/025/U2_ADJ_06%20%28TILES%2C%20SPRITESHEETS%20y%20TAMA%C3%91OS%29.pptx
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/026/U3_ADJ_01%20%28ANIMACI%C3%93N%20DE%20ESPERA%29%20.pptx
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/027/U3_ADJ_02%20%28PPIOS%20IMPORTANTES%20DE%20LA%20ANIMACI%C3%93N%29.pptx
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/028/U3_ADJ_03%20%28ANIMACI%C3%93N%20WALKING%20CYCLE%29.pptx
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/029/U3_ADJ_04%20%28ANIMACI%C3%93N%20DE%20ATAQUE%29.pptx
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/030/U3_ADJ_05%20%28ANIMACI%C3%93N%20DEL%20ENTORNO%29.pptx
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/004/031/ANIMACI%C3%93N%20PIXEL%20ART%20VIDEOJUEGOS%20-%20PROYECTO%20FINAL.zip
