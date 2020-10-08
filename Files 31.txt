@@ -1,0 +1,6 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/275/Documentaci%C3%B3n_Los_Surcos_del_Azar.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/276/Esquema_B%C3%A1sico_de_un_gui%C3%B3n.png
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/277/Bocetos_Los_Surcos_del_Azar.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/278/Plantilla_C%C3%B3mic.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/279/Tinta.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/280/C%C3%B3mic_Los_Otros.jpg

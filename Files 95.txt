@@ -1,0 +1,14 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/033/U3_01%20Ejercicio%20con%20formas%20%28Referencia%29.png
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/034/U3_01%20Ejercicio%20con%20formas%20%28Soluci%C3%B3n%29.sketch
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/035/U3_02%20Ejercicio%20con%20s%C3%ADmbolos%20%28Referencia%29.png
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/036/U3_02%20Ejercicio%20con%20s%C3%ADmbolos%20%28Soluci%C3%B3n%29.sketch
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/037/U3_03%20Ejercicio%20con%20m%C3%A1scaras%20%28Referencia%29.png
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/038/U3_03%20Ejercicio%20con%20m%C3%A1scaras%20%28Imagen%29.png
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/039/U3_03%20Ejercicio%20con%20m%C3%A1scaras%20%28Soluci%C3%B3n%29.sketch
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/044/U4_01%20Dise%C3%B1a%20tus%20wireframes%20%28Referencia%20-%20Principal%29.png
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/040/U4_01%20Dise%C3%B1a%20tus%20wireframes%20%28Referencia%20-%20Interior%29.png
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/045/U4_01%20Dise%C3%B1a%20tus%20wireframes%20%28Soluci%C3%B3n%29.sketch
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/046/U4_02%20A%C3%B1ade%20estilo%20visual%20a%20tus%20wireframes%20%28Referencia%20-%20Principal%29.png
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/047/U4_02%20A%C3%B1ade%20estilo%20visual%20a%20tus%20wireframes%20%28Referencia%20-%20Interior%29.png
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/048/U4_02%20A%C3%B1ade%20estilo%20visual%20a%20tus%20wireframes%20%28Soluci%C3%B3n%29.sketch
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/049/U4_ADJ_01%20A%C3%B1ade%20estilo%20visual%20a%20tus%20wireframes%20%28Archivos%29.zip

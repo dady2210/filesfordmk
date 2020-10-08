@@ -1,0 +1,4 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/470/MANUAL_EL_PAIS_SEMANAL_1.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/471/MANUAL_EL_PAIS_SEMANAL_2.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/472/MANUAL_EL_PAIS_SEMANAL_3.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/473/MANUAL_EL_PAIS_SEMANAL_4.pdf

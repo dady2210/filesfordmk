@@ -1,0 +1,8 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/437/cuadernos_plegados_pantalla.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/438/Cuadernos_Plegados_Imprimible.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/441/Cuadernos_Plegados.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/439/cosido_japon%C3%A9s_pantalla.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/440/Cosido_Japon%C3%A9s_%28Imprimible%29.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/442/Cuadernos_Cosidos.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/595/INDICACIONES_COMPLEMENTARIAS_COPTO.pdf.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/596/Crear_Folleto_en_PDF.pdf.zip

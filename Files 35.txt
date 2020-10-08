@@ -1,0 +1,10 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/309/U2_DOC_01_Fotos_de_R%C3%B3tulos_en_lacalle_%281%29.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/308/U2_DOC_02_Terminolog%C3%ADa.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/310/U2_DOC_03_Bases_de_la_Tipograf%C3%ADa.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/311/U2_DOC_04_El_Rol_de_la_Caligraf%C3%ADa.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/312/U3_DOC_01_Boceto_a_mano.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/313/U4_DOC_01_Puntos_extremos_-_Dibujo_vectorial.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/314/U5_DOC_01_Correcci%C3%B3n_y_ojo_cr%C3%ADtico.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/315/U5_DOC_02_Textura_01.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/316/U5_DOC_03_Textura_02.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/317/U5_DOC_04_Textura_03.bmp

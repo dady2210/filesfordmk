@@ -1,0 +1,2 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/434/Configuraci%C3%B3n_del_ZBrush.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/000/436/Config_UI_MenorResolucion_DOMESTIKA.zip
