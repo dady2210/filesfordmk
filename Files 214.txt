@@ -1,0 +1,15 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/677/U2_ADJ_01_%28contrast%29.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/678/U2_ADJ_02_%28script%29.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/679/U2_ADJ_03_%28slideshow_expresividad%29.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/680/U2_ADJ_04_%28slideshow_construccio%CC%81n%29.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/681/U2_ADJ_05_%28slideshow_composicio%CC%81n%29.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/682/U2_ADJ_06_%28slideshow_estilos%29.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/683/U2_ADJ_07_%28ejemplos_jerarqui%CC%81a%29.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/684/U2_ADJ_08_%28ejemplos_acabados%29.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/685/U3_ADJ_01_%28slideshow_teori%CC%81a_del_cartel%29.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/686/U3_ADJ_02_%28slideshow_ana%CC%81lisis_carteles%29.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/687/U4_ADJ_01_%28slideshow_referentes%29.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/688/U4_ADJ_02_%28bocetos%29.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/689/elementos_del_cartel.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/690/U4_ADJ_03_%28ro%CC%81tulos_finales%29.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/691/composicio%CC%81n_final.psd

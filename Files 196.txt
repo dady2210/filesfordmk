@@ -1,0 +1,7 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/521/U2_ADJ_01_Pdf_Guerra_Cr%C3%B3matica.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/522/U2_ADJ_02_C%C3%ADrculo_Com%C3%A1tico.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/523/U3_ADJ_01_Calco.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/524/U3_ADJ_02_Referencia_portada_color.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/525/U3_ADJ_03_Referencia_portada_con_t%C3%ADtulo.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/526/U4_ADJ_01_Referencias_Acr%C3%ADlico.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/527/U5_ADJ_01_Portada_lista_rgb.jpg

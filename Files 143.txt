@@ -1,0 +1,10 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/109/Im%C3%A1genes_influencias.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/110/Lecci%C3%B3n_01_PLANOS.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/111/Lecci%C3%B3n_05_PLUGINS.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/112/Lecci%C3%B3n_01_FOTOGRAF%C3%8DAS.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/113/Lecci%C3%B3n_03_TEXTURA_LUZ.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/114/Lecci%C3%B3n_01_PLUGINS.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/115/Lecciones_02-04_TEXTURAS.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/122/Mobiliario.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/123/Lecci%C3%B3n_01_SCRIPTS.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/124/Imagenes_para_la_postproduccion.zip
