@@ -1,0 +1,11 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/006/907/U1_ADJ_02_Ma%CC%81s%20monstruos%20%20%281%29.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/006/513/U3_ADJ_01_Buscando%20y%20definiendo%20una%20idea.pdf%20%20.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/006/514/U3_ADJ_02_Dibuja%20un%20mundo%20para%20tu%20personaje.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/035/U3_ADJ_03_Materiales.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/006/950/U4_ADJ_01_Storyboardgui%CC%81a.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/029/U5_ADJ_01_scans%20capas_blanco%20y%20negro.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/030/U5_ADJ_02_Ilustracio%CC%81n%20%20a%20color%20en%20capas_RGB.psd
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/031/U5_ADJ_03_Ilustracio%CC%81n%20aplanada_CMYK.tif
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/032/U5_ADJ_04_Instrucciones%20para%20exportar%20un%20pdf%20para%20impresio%CC%81n.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/033/U5_ADJ_05_Ejemplo%20pdf%20con%20rebase.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/034/U5_ADJ_06_Instrucciones%20dummy%20book.pdf

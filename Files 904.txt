@@ -1,0 +1,7 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/005/487/ADJ1_U1_referentes%20Guacala.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/005/490/ADJ1_U2_referentes%20proyecto.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/005/491/ADJ2_U2_archivos%20psd%20bocetos.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/005/492/ADJ3_U2_archivo%20psd%20boceto%20final.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/005/517/ADJ1_U3_archivo%20psd%20refresco.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/005/518/ADJ2_U3_paleta%20de%20color.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/005/519/ADJ3_U3_archivo%20final.zip

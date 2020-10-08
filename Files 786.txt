@@ -1,0 +1,5 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/005/682/Lista%20de%20materiales%20Trazos%20y%20Puntadas.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/005/683/Identikit%20trazos%20y%20puntadas.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/005/684/Patrones%20espaciales%20vectorizados.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/005/687/Gu%C3%ADa%20de%20puntos%20bordados%20trazos%20y%20puntadas.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/005/688/Pins%20bordados%20espaciales.rar
