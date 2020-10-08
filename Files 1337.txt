@@ -1,0 +1,4 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/382/U2_ADJ_01_Bocetos%20personajes%20.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/383/U2_ADJ_02%20plantilla%20personajes.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/384/U3_ADJ_01%20archivos%20procreate.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/385/U3_ADJ_02%20backgrounds.zip

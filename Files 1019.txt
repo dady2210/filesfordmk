@@ -1,0 +1,9 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/825/U1_ADJ_01_GuiaRapido_PT_EN.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/826/U2_ADJ_01_ModeloBriefing_PT_EN.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/827/U2_ADJ_02_Brainstorming%2BIdeias_PT_EN.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/828/U2_ADJ_03_GuiaEstilo_PT_EN.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/829/U3_ADJ_1_Esquema-Rascunho%2BTra%C3%A7oFinal_PT_EN.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/830/U3_ADJ_2_ProjetoFinalProfessor_SemCores_PT_EN.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/831/U3_ADJ_3_ProjetoFinalProfessor_PT_EN.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/832/U4_ADJ_1_ElementosSeparados_PT_EN.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/833/U4_ADJ_2_REPS_PT_EN.zip

@@ -1,0 +1,5 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/869/Composiciones.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/870/Bocetos.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/986/U4_Colores.psd
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/987/U4_Texturas.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/988/WesArt_Final_BackToTheFuture.pdf

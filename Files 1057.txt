@@ -1,0 +1,6 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/967/Portrait_practice_template.psd
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/006/311/Bearbrickjia_portrait_demo.psd
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/006/312/Bearbrickjia_domestika_brushes.abr
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/250/Image%20reference.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/006/313/Bearbrickjia_Moodboard.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/006/314/Bearbrickjia_Final_Project.psd

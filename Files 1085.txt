@@ -1,0 +1,15 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/006/119/U2_ADJ_1.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/006/120/U2_ADJ_2.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/006/121/U3_ADJ_1.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/006/205/Filtro%20Lecci%C3%B3n%202%20-%20FACETRACKER.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/006/206/Filtro%20Lecci%C3%B3n%203%20-%20MARCO.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/006/207/Filtro%20Lecci%C3%B3n%204%20-%20PATCH%20EDITOR%20.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/006/208/Filtro%20Lecci%C3%B3n%205%20-%20MAQUILLAJE.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/006/209/Filtro%20Lecci%C3%B3n%206%20-%20CORRECCI%C3%93N%20DE%20COLOR.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/006/210/Filtro%20Lecci%C3%B3n%207%20-%20FONDO%20%28segmentaci%C3%B3n%29.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/006/211/Filtro%20Lecci%C3%B3n%208%20-%20ILUSTRACI%C3%93N%20EN%203D.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/006/212/Plano%20curvo.obj
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/006/213/Texturas%20LUTS%20%28de%20Josh%20Beckwith%29.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/101/Bloques%20y%20patches.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/006/122/U5_ADJ_01.arexport
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/006/123/U5_ADJ_02.PSD

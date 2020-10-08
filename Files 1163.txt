@@ -1,0 +1,9 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/790/U2_ADJ_01%20Lista%20de%20herramientas%20y%20materiales.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/791/U2_ADJ_02%20Medidas%20de%20Seguridad%20y%20Consideraciones.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/792/U2_ADJ_03%20Lista%20de%20Plantas%20para%20Impresi%C3%B3n%20Bot%C3%A1nica.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/795/U3_ADJ_01%20Gu%C3%ADa%20para%20el%20lavado%20y%20mordentado.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/796/U3_ADJ_02%20Tinta%20Ferrogalica.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/009/608/U4_ADJ_L1%20Consejos%20Impresi%C3%B3n%20Bot%C3%A1nica.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/798/U4_ADJ_02%20Hapa%20zome%20en%20papel.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/799/U4_ADJ_03%20Ficha%20t%C3%A9cnica.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/800/U4_ADJ_04%20Gu%C3%ADa%20de%20cuidados.pdf

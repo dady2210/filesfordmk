@@ -1,0 +1,12 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/117/marcoschin-triangulation-sample01.psd
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/118/marcoschin-triangulation-sample02.psd
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/119/marcoschin-triangulation-sample03.psd
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/120/marcoschin-asymmetry-sample01.psd
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/121/marcoschin-symmetry-sample01.psd
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/122/marcos-sample-ruleofthirds-01.psd
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/123/marcos-sample-ruleofthirds-02.psd
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/124/marcoschin-movement-sample01.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/125/marcos-birdhat-finalselect.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/126/marcos-fish-finalselect.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/127/marcos-superbug-finalselect.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/132/marcoschin-textures.zip

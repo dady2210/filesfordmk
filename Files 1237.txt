@@ -1,0 +1,6 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/422/Attachment1_References.7z
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/423/Attachment1_Portraits.7z
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/424/Attachment2_CharacterDesign.7z
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/425/Attachment3_faces.psd
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/426/Attachment1_ColorPaletteTemplate.psd
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/427/Attachment2_PageMockups.7z

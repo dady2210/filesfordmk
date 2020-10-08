@@ -1,0 +1,6 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/790/BodegonDomestika_modelado.ma
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/791/ImagenesReferenciaBodegon.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/786/U2_ADJ_01_MisPlantillas-20200505T155811Z-001.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/787/ReferenciasCartoon.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/788/U3_ADJ_01_ArchivosDeLosModelosCartoon-20200506T083017Z-001.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/789/U4_ADJ_01_ResultadosFInales-20200506T093241Z-001.zip

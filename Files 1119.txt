@@ -1,0 +1,12 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/807/U2_ADJ_01%20MOODBOARD.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/808/U2_ADJ_02%20BOCETO%20GUIA.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/809/U2_ADJ_03%20BOCETO%20PIEZAS%20SEPARADAS.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/810/U2_ADJ_04%20MATERIALES%20Y%20PROVEEDORES.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/811/U3_ADJ_01%20ETAPAS%20DE%20LA%20ARCILLA.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/812/U3_ADJ_02%20CONTRACCI%C3%93N%20DE%20LA%20ARCILLA.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/813/U3_ADJ_03%20EJEMPLOS%20CON%20PLACA%2C%20PELLIZCO%20Y%20ROLLOS.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/815/U4_ADJ_01%20EJEMPLOS%20DE%20TECNICAS%20DECORATIVAS.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/816/U4_ADJ_02%20EJEMPLOS%20UTILITARIOS.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/817/U4_ADJ_03%20ERRORES%20COMUNES.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/818/U4_ADJ_04%20TABLA%20DE%20TEMPERATURAS.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/819/U4_ADJ_05%20SERVICIOS%20DE%20QUEMA%20CHILE.pdf

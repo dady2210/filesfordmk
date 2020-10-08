@@ -1,0 +1,5 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/006/536/U2-ADJ1_ciudaddelosarqutectos.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/006/537/U2-ADJ2_bocetos.png
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/006/529/U3-ADJ1_parametrosdecamara.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/006/531/U4-ADJ1_archivosRAW.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/006/532/U4-ADJ2_fotos%20finales.zip
