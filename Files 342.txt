@@ -1,0 +1,6 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/002/131/MATERIALES.jpg.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/002/134/Mis%20materiales.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/002/132/GUIA%20DE%20COLOR.pdf.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/002/133/Ejercicios%20de%20anatomi%CC%81a%20femenina.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/002/136/REGISTRO-OBRAOK.jpg.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/002/137/DOMESTIKA_ILUSTRACION.jpg.zip

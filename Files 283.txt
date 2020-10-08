@@ -1,0 +1,6 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/002/113/Referencias%20robots.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/002/114/Vistas%20del%20robot.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/002/115/Hamburguesa_domestika.mb
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/002/116/entorno_robot_dmstk.mb
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/002/117/robot_render_dmstk.mb
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/002/118/final_render.jpg

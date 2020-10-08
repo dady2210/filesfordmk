@@ -1,0 +1,5 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/898/HC_Imagenes_Moodboard.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/896/bocetos.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/910/Capital_y_ornamentos.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/911/HC_Catrines_LGuiayBase.ai
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/912/HC_Catrines_ColorLucesySombras.ai

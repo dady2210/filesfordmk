@@ -1,0 +1,12 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/774/U1_fotos_amarillas.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/775/U1_pareidolias.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/776/U2_ejercicios_composicion.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/777/U2_ejercicios_formatos.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/778/U2_ejercicios_perspectiva.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/779/U3_mis_retratos_de_audrey.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/780/U3_mis_ejercicios_de_sombreado.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/781/U3_mis_ejercicios_dibujo_natural.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/996/modelo%20audrey%20ejercicio%20proporciones.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/782/U4_calientamanos.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/784/U4_ejercicios_de_un_dia.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/008/787/U4_ejercicios_de_blotted_line.zip

@@ -1,0 +1,4 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/662/Archivos_Guerrera_Urbana.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/663/Ima%CC%81genes_Extra_Guerrera_Urbana.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/726/Me_llamo_Flor.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/727/Fotos_finales.zip

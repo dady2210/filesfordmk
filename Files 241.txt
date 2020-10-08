@@ -1,0 +1,4 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/784/Igualacion.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/801/Barnizeta2.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/802/Acabado_mate.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/001/803/La%CC%81piz_de_color.jpg

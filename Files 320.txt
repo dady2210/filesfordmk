@@ -1,0 +1,5 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/002/490/Caralarga%20-%20Materiales.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/002/491/Caralarga%20-%20Nudos.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/002/492/Caralarga%20-%20Cierres.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/002/493/Extracto_Fabricacion_joyeria_tecnologias_araque_2016.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/002/494/Muestras%20Empaque.zip

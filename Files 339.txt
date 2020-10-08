@@ -1,0 +1,5 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/002/565/U2_KarenBarbe_CirculoCromatico_01.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/002/566/U2_KarenBarbe_ArmoniasColores_02.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/002/567/U2_KarenBarbe_TarjetasHilos_03.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/002/568/U2_KarenBarbe_Portafolio_04.pdf
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/002/575/U4_KarenBarbe_PlanesColorReferencia_01.pdf
