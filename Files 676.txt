@@ -1,0 +1,5 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/005/003/C1_L3_Shortcut%20DaVinci%20Resolve.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/005/004/C2_L2_Poster%20Teoria%20color.png
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/005/021/C5_L3_01_Codecs%20de%20vi%CC%81deo%20digital.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/005/022/C5_L3_02_%20Relacio%CC%81n%20de%20aspecto%20de%20pantallas.jpg
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/005/023/C5_L3_03_Resoluciones%20de%20pantalla.jpg

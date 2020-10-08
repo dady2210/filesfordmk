@@ -1,0 +1,8 @@
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/005/005/U2%20ADJ1_vectores.ai
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/005/006/U2%20ADJ2_assets.c4d
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/005/012/U3%20ADJ1%20archivo%20Iluminacion.c4d
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/005/072/U4%20ADJ1_libreria.lib4d
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/232/U3-ADJ3%20-%20libreria%20de%20luces.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/233/U3-ADJ4%20-%20Texturas%20del%20curso.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/007/235/U3-%20ADJ5%20-%20Pack%20de%20texturas.zip
+https://prod-dmstk-org.s3.eu-west-1.amazonaws.com/s3_private_uploads/000/005/071/U4%20ADJ1_archivo%20final%20C4D.rar
